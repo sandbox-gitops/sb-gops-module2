@@ -22,5 +22,5 @@ git subtree pull --prefix path/to/other https://github.com/sandbox-gitops/sb-gop
 
 push any change back to the subtree
 ~~~
-git subtree push --prefix subtreeDirectory https://github.com/newfivefour/vimrc.git master
+git subtree push --prefix path/to/other https://github.com/newfivefour/vimrc.git](https://github.com/sandbox-gitops/sb-gops-module1.git) master
 ~~~
